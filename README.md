@@ -1,2 +1,2 @@
 # Calculator
-This is a React Calculator for simple arithmetic
+This is a Calculator for simple arithmetic built using vanilla JS
